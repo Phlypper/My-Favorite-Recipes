@@ -1,0 +1,45 @@
+.topmenu { text-align: center;
+background: darkred;
+color: silver;
+}  
+nav{ text-align: center;
+
+  background: green;
+color: white;
+  width: 20em;
+}
+
+img{
+  width: 400px;
+  border: 5px solid black;
+  padding: 10px;
+}
+
+article{
+ margin-left: 40px;
+}
+
+h1{ text-align: center;
+  background: purple;
+Color: white;            
+margin:0px;
+}
+nav ul{
+ padding-left: 25px;
+}
+body {
+margin: 0px;
+}
+
+.ingredients { text-align: left; 
+padding-right: 20px;
+}
+
+.amount { text-align: right; 
+padding-left: 20px
+}
+
+table { border: bold solid lavender;
+}
+
+border { border-collapse: collapse;}
